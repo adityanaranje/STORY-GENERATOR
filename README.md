@@ -53,7 +53,7 @@ The app is live and can be accessed here:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/story-generator-groq.git
+   git clone https://github.com/adityanaranje/STORY-GENERATOR.git
    cd story-generator-groq
 
 2. Install dependencies:
